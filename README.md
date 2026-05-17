@@ -1,6 +1,4 @@
-# Automata_Host_Scan
-<img width="1390" height="945" alt="nmap_host_discover example" src="https://github.com/user-attachments/assets/02287802-2e6e-46a1-a085-bbbf92c07f52" />
-
+Ez egy nmap automata host discovery script.
 Magyar nyelv
 Csak gyakorlásként csináltam de mivel jó lett ezért megosztom.
 Ha bármi hibát tapasztalsz, kérlek jelezd.
