@@ -1,5 +1,7 @@
+<img width="1390" height="945" alt="nmap_host_discover example" src="https://github.com/user-attachments/assets/00714499-afee-4c23-86e4-9dab497f3bbd" />
+
 Ez egy nmap automata host discovery script.
-Magyar nyelv
+Magyar nyelv.
 Csak gyakorlásként csináltam de mivel jó lett ezért megosztom.
 Ha bármi hibát tapasztalsz, kérlek jelezd.
 
